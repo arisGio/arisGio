@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
-### This is Aris and welcome to my GitHub profile!
-#### Feel free to wander around and contact me if needed through the link below.
+## This is Aris and welcome to my GitHub profile!
+## Feel free to wander around and contact me if needed through the link below.
 
 - 🔭 Working as a Front End Developer.
 - 🌱 Currently getting my hands dirty with Flutter & Dart for Mobile development and Angular for Web development. Previously used HTML5, CSS3, JS & ReactJS with Webpack.
@@ -29,7 +29,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 <code>Mockoon</code>
 ## VCS
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/about)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Thanks for passing by
