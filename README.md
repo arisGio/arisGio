@@ -2,9 +2,10 @@
 
 ## This is Aris and welcome to my GitHub profile!
 
-- 🔭 Working as a Junior Front End Developer.
-- 🌱 Currently getting my hands dirty with Flutter & Dart for Mobile development and Angular/TypeScript for Web development. Previously used HTML/CSS/JS & ReactJS refactoring a small codebase using class components into functional components using hooks and callbacks to manage state.
-- 📫 To find out more about me you can check: <a href="https://www.linkedin.com/in/aris-giotis-93b890156/">my LinkedIn profile</a>
+- 🔭 Working as a Front End Developer. Being a framework agnostic developer, not afraid to touch upon different technologies, since each one of them offers and solves a different problem.
+- ⚙️ However, if you ask me which tool I would use, then I would choose React ❤️.
+- 🌱 Currently getting my hands dirty with Angular/TypeScript for Web development. Previously used HTML/CSS/JS & ReactJS refactoring a small codebase using class components into functional components using hooks and callbacks to manage state.
+- 📫 To find out more about me you can check: <a href="https://www.linkedin.com/in/aris-giotis/">my LinkedIn profile</a>
 
 # Tech Stack
 
@@ -31,4 +32,3 @@
 ## API Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-<code>Mockoon</code>
