@@ -2,7 +2,7 @@
 
 ## This is Aris and welcome to my GitHub profile!
 
-- 🔭 Working as a Front End Developer. Being a framework agnostic developer, not afraid to touch upon different technologies, since each one of them offers and solves a different problem.
+- 🔭 Working as a Front End Developer. Being a framework agnostic developer, not afraid to touch upon different technologies, since each one of them solves a different problem.
 - ⚙️ However, if you ask me which tool I would use, then I would choose React ❤️.
 - 🌱 Currently getting my hands dirty with Angular/TypeScript for Web development. Previously used HTML/CSS/JS & ReactJS refactoring a small codebase using class components into functional components using hooks and callbacks to manage state.
 - 📫 To find out more about me you can check: <a href="https://www.linkedin.com/in/aris-giotis/">my LinkedIn profile</a>
