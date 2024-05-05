@@ -5,7 +5,7 @@
 - 🔭 Working as a Front-End Software Engineer. Being a framework agnostic developer, not afraid to touch upon different technologies, since each one of them solves a different problem & teaches you something new.
 - 🌱 Currently getting my hands dirty with `React/TypeScript` for Web development.
 - Technologies I encountered in the past:
-    - `Angular/TypeScript` for Web development &  a small touch of mobile development using Flutter & Dart.
+    - `Angular/TypeScript` for Web development &  a small touch of mobile development using `Flutter & Dart`.
     - `HTML/CSS/JS & ReactJS` refactoring a small codebase using class components into functional components using hooks and callbacks to manage state.
 - My main studies are in Theoretical Physics. This in particular, transformed me into a versatile person capable of touching upon complex subjects and try to understand them by using conceptual analogies or model thinking.
 - 📫 To find out more about me you can check: <a href="https://www.linkedin.com/in/aris-giotis/">my LinkedIn profile</a>
