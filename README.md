@@ -4,6 +4,10 @@
 
 - 🔭 Working as a Front-End Software Engineer. Being a framework agnostic developer, not afraid to touch upon different technologies, since each one of them solves a different problem & teaches you something new.
 - 🌱 Currently getting my hands dirty with `React/TypeScript` for Web development.
+- So far I have worked for:
+    - Light & Wonder - iGaming
+    - IBM
+    - Accenture
 - Technologies I encountered in the past:
     - `Angular/TypeScript` for Web development &  a small touch of mobile development using `Flutter & Dart`.
     - `HTML/CSS/JS & ReactJS` refactoring a small codebase using class components into functional components using hooks and callbacks to manage state.
