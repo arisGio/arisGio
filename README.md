@@ -3,10 +3,10 @@
 ### This is Aris and welcome to my GitHub profile!
 
 - 🔭 Working as a Front-End Software Engineer. Being a framework-agnostic developer, not afraid to touch upon different technologies, since each one of them solves a different problem & teaches you something new.
-- 🌱 Currently getting my hands dirty with `React/TypeScript` for Web development.
+- 🌱 Currently getting my hands dirty with `React`/`TypeScript` for Web development.
 - Technologies I encountered in the past:
-    - `Angular/TypeScript` for web dev &  a small touch of mobile dev using `Flutter & Dart`.
-    - `HTML/CSS/JS & React`.
+    - `Angular`/`TypeScript` for web dev &  a small touch of mobile dev using `Flutter`/`Dart`.
+    - `HTML`/`CSS`/`JS` & `React`.
 - My main studies are in Theoretical Physics. This in particular, transformed me into a versatile person capable of touching upon complex subjects and trying to understand them by using conceptual analogies or model thinking.
 - 📫 To find out more about me you can check: <a href="https://www.linkedin.com/in/aris-giotis/">my LinkedIn profile</a>
 
